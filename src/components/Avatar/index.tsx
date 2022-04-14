@@ -1,3 +1,4 @@
+import React from 'react';
 import { Image, Text, View } from "react-native";
 import { LinearGradient } from "expo-linear-gradient";
 import { theme } from "../../global/styles/theme";

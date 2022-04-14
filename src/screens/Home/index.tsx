@@ -1,3 +1,4 @@
+import React from 'react';
 import { Text, View, Image, StatusBar } from "react-native";
 import { Profile } from "../../components/Profile";
 import { styles } from "./styles";

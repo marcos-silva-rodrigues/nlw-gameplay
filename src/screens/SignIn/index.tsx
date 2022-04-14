@@ -1,3 +1,4 @@
+import React from 'react';
 import { Text, View, Image, StatusBar } from "react-native";
 import { styles } from "./styles";
 import IllustrationImg from '../../assets/illustration.png';
