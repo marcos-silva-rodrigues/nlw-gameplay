@@ -13,5 +13,6 @@ export const styles = StyleSheet.create({
     justifyContent: 'space-between',
     alignItems: 'center',
     marginTop: getStatusBarHeight() + 26,
+    marginBottom: 42,
   }
 });
